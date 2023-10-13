@@ -1,2 +1,2 @@
 # git-test
-hey, This is my first github repo.
+Hey, this is my first github repo.
